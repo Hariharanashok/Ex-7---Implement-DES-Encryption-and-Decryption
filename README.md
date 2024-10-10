@@ -4,7 +4,10 @@
 
   To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
 
+
 ## ALGORITHM: 
+
+
 
   1. AES is based on a design principle known as a substitution–permutation.
     
@@ -14,7 +17,11 @@
    
   4. AES operates on a 4 × 4 column-major order array of bytes, termed the state
 
+
+
 ## PROGRAM: 
+
+
 
 ```c#
 #include <stdio.h>
@@ -45,10 +52,16 @@ printf("Decrypted URL: %s\n", url);
 return 0;
 }
 ```
+
+
 ## OUTPUT:
+
+
 
 ![Screenshot 2024-10-08 220708](https://github.com/user-attachments/assets/0bee8219-4d06-467a-86b6-185236e1b765)
 
+
 ## RESULT: 
+
 
 Hence,to use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption is done successfully.
